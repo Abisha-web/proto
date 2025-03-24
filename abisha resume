@@ -10,7 +10,7 @@
     <h1>Upload Your Resume</h1>
 
     <form action="/submit_resume" method="POST" enctype="multipart/form-data">
-        <label for="resume">index(3).html:</label>
+        <label for="resume">file:///C:/Users/hp/Documents/abisha.html/resume.html:</label>
         <input type="file" id="resume" name="resume" accept=".pdf, .docx" required><br><br>
 
         <button type="submit">Upload Resume</button>
